@@ -1,5 +1,7 @@
 // Template ID, Device Name and Auth Token are provided by the Blynk.Cloud
 // See the Device Info tab, or Template settings
+// Its my Authorisation token and id 
+// Enter your token and id  
 #define BLYNK_TEMPLATE_ID       "TMPL3PPZSsdhm"
 #define BLYNK_TEMPLATE_NAME     "Home Automation"
 #define BLYNK_AUTH_TOKEN        "ZVhA4XhXsmkBBkXCbBufk17Emki3UAEU"
