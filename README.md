@@ -1,4 +1,5 @@
 # IoT-Based-Home-Automation 
+[Youtube video](https://youtu.be/ei5GYb5KpeI?si=G9Ayrk3ldB_a6AcU)
 IoT-based Home Automation Project using PICSimLab, Arduino IDE, Free Virtual Ports, and Blynk IoT involves controlling devices like LEDs through an LDR sensor, a serial tank, a heater, and a cooler. Below is a structured approach to implementing this project.
 This system will:
 
